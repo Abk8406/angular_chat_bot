@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  email: 'leticiamichelin@outlook.com',
-  githubUrl: 'https://github.com/leticiabma'
+  email: 'abk8406@gmail.com',
+  githubUrl: 'https://github.com/Abk8406'
 };
 
 /*
