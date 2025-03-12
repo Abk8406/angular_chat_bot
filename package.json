@@ -1,6 +1,9 @@
 {
   "name": "angular-chatbot",
   "version": "0.0.0",
+  "engines": {
+    "node": "14.21.3"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
