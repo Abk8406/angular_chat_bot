@@ -2,7 +2,7 @@
   "name": "angular-chatbot",
   "version": "0.0.0",
   "engines": {
-    "node": "14.21.3"
+    "node": "18.x"
   },
   "scripts": {
     "ng": "ng",
